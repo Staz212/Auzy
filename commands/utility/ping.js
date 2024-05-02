@@ -8,3 +8,8 @@ module.exports = {
 		await interaction.reply('Pong!');
 	},
 };
+
+
+/*
+basic code ping
+*/
