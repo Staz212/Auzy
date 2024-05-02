@@ -11,6 +11,6 @@ module.exports = {
 };
 
 /*
-basic kode serverinfo
+basic code serverinfo
 by staz
 */
