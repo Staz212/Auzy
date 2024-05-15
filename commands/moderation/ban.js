@@ -20,7 +20,3 @@ module.exports = {
   },
 };
 
-/*
-basic code ban commands
-by staz
-*/
