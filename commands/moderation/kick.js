@@ -20,7 +20,3 @@ module.exports = {
 	},
 };
 
-/*
-basic code kick commands
-by staz
-*/
