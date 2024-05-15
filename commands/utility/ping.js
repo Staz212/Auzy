@@ -10,6 +10,3 @@ module.exports = {
 };
 
 
-/*
-basic code ping
-*/
