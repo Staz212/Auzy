@@ -12,7 +12,3 @@ module.exports = {
 	},
 };
 
-/*
-basic code userinfo
-by staz
-*/
